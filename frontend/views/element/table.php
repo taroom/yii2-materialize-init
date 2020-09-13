@@ -1,8 +1,5 @@
 <?php
-
-/* @var $this yii\web\View */
-
-$this->title = 'Toko IG';
+$this->title = 'Tabel | '. Yii::$app->name;
 ?>
 <div class="row">
     <div class="col-md-12">
